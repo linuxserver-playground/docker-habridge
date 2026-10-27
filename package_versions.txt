@@ -1,4 +1,4 @@
-NAME                    VERSION                TYPE                         
+NAME                    VERSION                TYPE                          
 US_export_policy        UNKNOWN                java-archive  (+1 duplicate)  
 alpine-baselayout       3.6.5-r0               apk                           
 alpine-baselayout-data  3.6.5-r0               apk                           
@@ -29,7 +29,7 @@ fontconfig              2.15.0-r1              apk
 freetype                2.13.2-r0              apk                           
 giflib                  5.2.2-r0               apk                           
 gmp                     6.3.0-r1               apk                           
-ha-bridge               UNKNOWN                java-archive                  
+ha-bridge               5.4.1                  java-archive                  
 jaccess                 UNKNOWN                java-archive                  
 java-cacerts            1.0-r1                 apk                           
 java-common             0.5-r0                 apk                           
